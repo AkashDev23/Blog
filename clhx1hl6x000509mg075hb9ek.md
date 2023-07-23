@@ -1,5 +1,5 @@
 ---
-title: "Java vs. C and C++: Why Java Emerges as the Ultimate Winner"
+title: "Java vs C and C++: Why Java Emerges as the Ultimate Winner"
 datePublished: Sun May 21 2023 06:30:29 GMT+0000 (Coordinated Universal Time)
 cuid: clhx1hl6x000509mg075hb9ek
 slug: java-vs-c-and-c-why-java-emerges-as-the-ultimate-winner

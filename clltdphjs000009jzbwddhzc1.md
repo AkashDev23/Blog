@@ -16,7 +16,7 @@ I know you might have heard this many times, but I'll repeat it once again. If y
 
 ### 100 days challenge
 
-**Commit to a challenge.** 🚀 It's said that it takes **21 days to build a habit** and **90 days to build a lifestyle**. But I believe that you should at least do something for **30 days to make it a habit** and **100 days for it to become a lifestyle**. Why do I think so? No, it doesn't have any scientific reason. **30 and 90 just feel easy to remember**. 😅
+**Commit to a challenge.** 🚀 It's said that it takes **21 days to build a habit** and **90 days to build a lifestyle**. But I believe that you should at least do something for **30 days to make it a habit** and **100 days for it to become a lifestyle**. Why do I think so? No, it doesn't have any scientific reason. **30 and 100 just feel easy to remember**. 😅
 
 Now, you might have a question in your mind: **Why am I recommending you take a 100-day challenge instead of 30 days?** The answer is quite simple. *Learning coding is a difficult task* and it isn't something repetitive. Every day, you need to think, code, fail, etc. It's a lot more challenging (That's probably the reason software engineers are paid a lot). Jokes aside, when you start with 30 days, there's a high chance that you'll spend the whole month just figuring things out and not doing hands-on practice. On the other hand, with 100 days, you get ample time to figure things out.
 
@@ -77,4 +77,4 @@ Share your experiences with these strategies! How many have you integrated into 
 
 *Connect with me on* [*Twitter*](https://twitter.com/AkashDev2310) *and* [*Linkedin*](https://www.linkedin.com/in/akash-dev-274b05229/) *for more.*
 
-*Subscribe to* *my Newsletter**. Let's journey together.🥰*
+*Subscribe to* *my Newsletter*\*. Let's journey together.🥰\*

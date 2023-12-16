@@ -100,4 +100,4 @@ I've divided the article into 13 points. Certainly! Let's break down and explain
     
     I hope after reading this article you won't have any more doubt in your mind regarding the difference between git and gitHub.
     
-    *Don't forgot to hit that follow button and also subscribe to my newsletter to never miss an update. Thanks, Happy Coding.*
+    *Don't forget to hit that follow button and also subscribe to my newsletter to never miss an update. Thanks, Happy Coding.*

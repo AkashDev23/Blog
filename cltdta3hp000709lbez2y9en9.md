@@ -4,7 +4,7 @@ datePublished: Tue Mar 05 2024 03:29:33 GMT+0000 (Coordinated Universal Time)
 cuid: cltdta3hp000709lbez2y9en9
 slug: breaking-barriers-empowering-women-in-the-tech-industry
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1709236271015/b3785f34-8ffa-4ee7-9c59-ea56aeb06124.jpeg
-tags: womenintech, womenwhocode, womenwhotech, gender-equality
+tags: womenintech, womenwhocode, womenwhotech, gender-equality, iwd2024
 
 ---
 

@@ -4,7 +4,7 @@ datePublished: Sun Mar 10 2024 14:41:26 GMT+0000 (Coordinated Universal Time)
 cuid: cltlmhe6c000408l3c8wz3h69
 slug: promoting-diversity-and-looking-ahead
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1710081141859/93a650dd-cf51-42db-8559-cbb720c4f9a3.jpeg
-tags: technology, womenintech, lgbtq-rights, gender-equality, decodedevs
+tags: technology, womenintech, gender-equality, decodedevs, iwd2024
 
 ---
 
